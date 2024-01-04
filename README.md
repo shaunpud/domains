@@ -19,6 +19,7 @@ First commit, will update, send anything exciting...
 | SE | [elliotwutingfeng](https://github.com/elliotwutingfeng/InternetstiftelsenDomains) | [se_domains.txt](https://raw.githubusercontent.com/elliotwutingfeng/InternetstiftelsenDomains/main/se_domains.txt) |
 | SK | [sk-nic.sk](https://sk-nic.sk/en/home/) | [domains.txt](https://sk-nic.sk/subory/domains.txt) |
 | SU | | [su_domains.gz](https://partner.r01.ru/zones/su_domains.gz) |
+| TR | [agmmnn](https://github.com/agmmnn/tr-domains) | [tr-domains](https://github.com/agmmnn/tr-domains) |
 
 # Miscellaneous
 | Source | Reference | Link |
