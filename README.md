@@ -7,6 +7,7 @@ First commit, will update, send anything exciting...
 # Country
 | Extension | Reference | Link |
 |:---:|:---:|:---:|
+| BR | [lab.avl.la](https://lab.avl.la/.br/) | [br.txt](https://lab.avl.la/.br/br.txt)
 | CH | [antoinet](https://github.com/antoinet/chzone) | [ch_uniq.txt](https://raw.githubusercontent.com/antoinet/chzone/main/ch_uniq.txt) |
 | EE | [anroots](https://github.com/anroots/ee-domains) | [domains.txt](https://raw.githubusercontent.com/anroots/ee-domains/master/public/lists/domains.txt) |
 | EE | [elliotwutingfeng](https://github.com/elliotwutingfeng/EstonianInternetFoundationDomains) | [domains.txt](https://raw.githubusercontent.com/elliotwutingfeng/EstonianInternetFoundationDomains/main/domains.txt) |
