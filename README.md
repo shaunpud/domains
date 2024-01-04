@@ -32,6 +32,7 @@ First commit, will update, send anything exciting...
 | Cloudflare | [radar.cloudflare.com](https://radar.cloudflare.com) | [cloudflare-radar-domains-top-1000000.csv](https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=525&top=1000000) |
 | cygenta | [github.com](https://github.com/cygenta/top10million) | [cygenta_top10M_live_sites.tgz](https://raw.githubusercontent.com/cygenta/top10million/main/cygenta_top10M_live_sites.tgz) |
 | DomCop | [domcop.com](https://www.domcop.com/top-10-million-websites) | [top10milliondomains.csv.zip](https://www.domcop.com/files/top/top10milliondomains.csv.zip) |
+| Host.io | [host.io](https://host.io/rankings) | [host10m.csv.gz](https://host.io/rankings/download) |
 | Majestic | [majestic.com](https://majestic.com/reports/majestic-million) | [majestic_million.csv](https://downloads.majestic.com/majestic_million.csv) |
 | Statvoo |  | [top-1million-sites.csv.zip](https://statvoo.com/dl/top-1million-sites.csv.zip) |
 | Tranco | [tranco-list.eu](https://tranco-list.eu) | [top-1m.csv.zip](https://tranco-list.eu/top-1m.csv.zip) |
