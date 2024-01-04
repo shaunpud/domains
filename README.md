@@ -11,6 +11,7 @@ First commit, will update, send anything exciting...
 | CH | [antoinet](https://github.com/antoinet/chzone) | [ch_uniq.txt](https://raw.githubusercontent.com/antoinet/chzone/main/ch_uniq.txt) |
 | EE | [anroots](https://github.com/anroots/ee-domains) | [domains.txt](https://raw.githubusercontent.com/anroots/ee-domains/master/public/lists/domains.txt) |
 | EE | [elliotwutingfeng](https://github.com/elliotwutingfeng/EstonianInternetFoundationDomains) | [domains.txt](https://raw.githubusercontent.com/elliotwutingfeng/EstonianInternetFoundationDomains/main/domains.txt) |
+| EE | [jtagcat](https://github.com/jtagcat/ee) | [list](https://raw.githubusercontent.com/jtagcat/ee/main/list) |
 | GOV | [cisagov](https://github.com/cisagov/dotgov-data) | [current-full.csv](https://raw.githubusercontent.com/cisagov/dotgov-data/main/current-full.csv) |
 | NU | [elliotwutingfeng](https://github.com/elliotwutingfeng/InternetstiftelsenDomains) | [nu_domains.txt](https://raw.githubusercontent.com/elliotwutingfeng/InternetstiftelsenDomains/main/nu_domains.txt) |
 | RF | | [rf_domains.gz](https://partner.r01.ru/zones/rf_domains.gz) |
@@ -24,7 +25,7 @@ First commit, will update, send anything exciting...
 |:---:|:---:|:---:|
 | ipsniper | [ipsniper.info](https://ipsniper.info) | [/archive/latest/domainlists/public/](https://ipsniper.info/archive/latest/domainlists/public/) |
 | jtwaleson | [news.ycombinator.com](https://news.ycombinator.com/item?id=10368935) | [domainnames.gz](https://all-certificates.s3.amazonaws.com/domainnames.gz) |
-| tb0hdan | [github.com](https://github.com/tb0hdan/domains) | [/tb0hdan/domains/tree/master/data/](https://github.com/tb0hdan/domains/tree/master/data/) |
+| tb0hdan | [tb0hdan](https://github.com/tb0hdan/domains) | [/tb0hdan/domains/tree/master/data/](https://github.com/tb0hdan/domains/tree/master/data/) |
 
 # Top Lists
 | Source | Reference | Link |
