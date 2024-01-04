@@ -24,6 +24,7 @@ First commit, will update, send anything exciting...
 |:---:|:---:|:---:|
 | ipsniper | [ipsniper.info](https://ipsniper.info) | [/archive/latest/domainlists/public/](https://ipsniper.info/archive/latest/domainlists/public/) |
 | jtwaleson | [news.ycombinator.com](https://news.ycombinator.com/item?id=10368935) | [domainnames.gz](https://all-certificates.s3.amazonaws.com/domainnames.gz) |
+| tb0hdan | [github.com](https://github.com/tb0hdan/domains) | [/tb0hdan/domains/tree/master/data/](https://github.com/tb0hdan/domains/tree/master/data/) |
 
 # Top Lists
 | Source | Reference | Link |
