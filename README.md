@@ -18,6 +18,7 @@
 # Miscellaneous
 | Source | Reference | Link |
 |:---:|:---:|:---:|
+| azathothas | [azathothas](https://github.com/Azathothas/CertStream-Domains) | [all_weekly.txt](https://pub.ajam.dev/datasets/certstream/all_weekly.txt) |
 | crimeflare | [crimeflare.eu.org](http://crimeflare.eu.org) | [/download/crimeflare/](https://archive.org/download/crimeflare/) |
 | ipsniper | [ipsniper.info](https://ipsniper.info) | [/archive/latest/domainlists/public/](https://ipsniper.info/archive/latest/domainlists/public/) |
 | jtwaleson | [news.ycombinator.com](https://news.ycombinator.com/item?id=10368935) | [domainnames.gz](https://all-certificates.s3.amazonaws.com/domainnames.gz) |
